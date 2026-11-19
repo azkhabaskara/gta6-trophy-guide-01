@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","note":"Checklist with filters, spoiler setting on, progress counters per grade","path":"/","seeded":"13 of 55 earned","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"Guide pane open on Positive Mental Attitude, the one missable trophy, with its sources","path":"/","seeded":"13 of 55 earned","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"Roadmap to the platinum, five stages with per-stage progress","path":"/#/roadmap","seeded":"13 of 55 earned","viewport":{"height":800,"width":1280}},{"file":"4-missables.jpg","note":"Missables page in the night theme","path":"/#/missables","seeded":"13 of 55 earned","theme":"night","viewport":{"height":800,"width":1280}}]
